@@ -4,7 +4,7 @@
 
 ## DATA
 
-引用Github的对联数据集https://github.com/wb14123/couplet-dataset.git，包含七十万条对联上下文数据，下载到`couplet`文件夹。
+引用Github的对联数据集 [Link](https://github.com/wb14123/couplet-dataset.git) ，包含七十万条对联上下文数据，下载到`couplet`文件夹。
 
 ## Train
 
